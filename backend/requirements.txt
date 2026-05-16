@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+anthropic
+google-cloud-firestore
+google-cloud-aiplatform
+google-generativeai
+firebase-admin
+networkx
+python-dotenv
+pydantic
